@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Shaan Patel's Website
 
 You can use the [editor on GitHub](https://github.com/spatel0203/Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
