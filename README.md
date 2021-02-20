@@ -1,13 +1,6 @@
 ## Welcome to Shaan Patel's Website
 
-You can use the [editor on GitHub](https://github.com/spatel0203/Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Hello, my name is Shaan Patel. I am an aspiring software engineer self-teaching various programming languages like Python, HTML, CSS, and Javascript. Currently, I am learning web development utilizing HTML, CSS, and a Server-side JavaScript framework called Node.js!
 ```markdown
 Syntax highlighted code block
 
